@@ -11,4 +11,6 @@ another list
 --- 
 10. you are done for
 9. KYLE
-1. give me MONNEY
+1. give me monney
+## other pages 
+- [more crimes](https://github.com/Kylenutz/kylenutz.github.io/kyle) 
