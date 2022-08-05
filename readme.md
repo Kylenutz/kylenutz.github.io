@@ -13,4 +13,4 @@ another list
 9. KYLE
 1. give me monney
 ## other pages 
-- [more crimes](https://github.com/Kylenutz/kylenutz.github.io/kyle) 
+- [more crimes](https://kylenutz.github.io/kyle) 
